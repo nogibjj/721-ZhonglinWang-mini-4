@@ -1,0 +1,7 @@
+[package]
+name = "diet-generator"
+version = "0.1.0"
+authors = ["Zhonglin Wang <zw277@duke.edu>"]
+
+[dependencies]
+rand = "0.8.5" 
